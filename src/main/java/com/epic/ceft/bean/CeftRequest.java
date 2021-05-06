@@ -21,6 +21,9 @@ public class CeftRequest implements Serializable {
     private String avlbalance; 
     private String status;   
     private String retrysms; 
+	
+	
+	cdhsdsdsdh
     
 	  
 	 
